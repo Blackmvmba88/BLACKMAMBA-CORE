@@ -1,7 +1,6 @@
 import type { Track } from "../../types/music";
 
-export function normalizeTrack(track: Track): Track {
-  const now = new Date().toISOString();
+export function normalizeTrack(track: Track, now = new Date().toISOString()): Track {
   const title = track.title.trim();
   const artist = track.artist.trim();
 

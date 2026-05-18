@@ -1,6 +1,6 @@
 {
   "name": "blackmamba-core",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Layered music intelligence core for Suno creations, SoundCloud metrics, vocal analysis, and strategic recommendations.",
   "type": "module",
   "private": true,

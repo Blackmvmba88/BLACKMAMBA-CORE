@@ -1,0 +1,27 @@
+{
+  "catalogId": "blackmamba-main",
+  "name": "BLACKMAMBA Main Catalog",
+  "importedAt": "2026-05-18T20:00:00.000Z",
+  "tracks": [
+    {
+      "id": "track_midnight_serpent",
+      "title": "Midnight Serpent",
+      "artist": "BLACKMAMBA",
+      "status": "monitoring",
+      "sourceKind": "suno",
+      "sourceExternalId": "suno_gen_blackmamba_001",
+      "sourceUrl": "https://suno.com/example",
+      "lyrics": "Sample lyric placeholder for catalog awareness.",
+      "version": "v0.1",
+      "createdAt": "2026-05-18T18:00:00.000Z",
+      "updatedAt": "2026-05-18T19:15:00.000Z"
+    },
+    {
+      "title": "Signal After Dark",
+      "artist": "BLACKMAMBA",
+      "status": "draft",
+      "sourceKind": "manual",
+      "lyrics": "Second catalog entry waiting for metrics."
+    }
+  ]
+}

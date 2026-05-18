@@ -40,6 +40,11 @@ Rules:
 7. Recommendation Engine
 8. Music Graph
 
+## Current Milestones
+
+- v0.1: Architecture skeleton.
+- v0.2: Manual catalog ingestion from JSON and CSV.
+
 ## Commands
 
 ```bash

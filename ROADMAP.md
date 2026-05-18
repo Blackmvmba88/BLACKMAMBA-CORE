@@ -8,11 +8,12 @@
 - Add sample JSON documents.
 - Add Vitest coverage for core behavior.
 
-## v0.2 - Catalog Memory
+## v0.2 - Manual Catalog Ingestion
 
-- Add local persistent track registry.
-- Add import/export flows for catalog JSON.
-- Add validation boundaries for external data.
+- Add JSON catalog ingestion.
+- Add CSV catalog ingestion.
+- Add in-memory catalog operations.
+- Add validation boundaries for manual data.
 
 ## v0.3 - Runtime Adapters
 
