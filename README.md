@@ -44,6 +44,7 @@ Rules:
 
 - v0.1: Architecture skeleton.
 - v0.2: Manual catalog ingestion from JSON and CSV.
+- v0.3: Manual SoundCloud metrics import from JSON and CSV.
 
 ## Commands
 
