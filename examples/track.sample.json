@@ -1,0 +1,77 @@
+{
+  "id": "track_blackmamba_001",
+  "title": "Midnight Serpent",
+  "artist": "BLACKMAMBA",
+  "status": "monitoring",
+  "sources": [
+    {
+      "kind": "suno",
+      "externalId": "suno_gen_blackmamba_001",
+      "url": "https://suno.com/example",
+      "createdAt": "2026-05-18T18:00:00.000Z"
+    },
+    {
+      "kind": "soundcloud",
+      "externalId": "soundcloud_track_001",
+      "url": "https://soundcloud.com/blackmamba/example-track",
+      "createdAt": "2026-05-18T18:20:00.000Z"
+    }
+  ],
+  "lyrics": "Sample lyric placeholder for catalog awareness.",
+  "sunoGeneration": {
+    "id": "suno_gen_blackmamba_001",
+    "prompt": "Dark cinematic reggaeton with emotional vocal lead and sharp percussion.",
+    "model": "suno-reference",
+    "generatedAt": "2026-05-18T18:00:00.000Z",
+    "durationSeconds": 142,
+    "styleTags": ["reggaeton", "cinematic", "latin", "dark-pop"],
+    "sourceUrl": "https://suno.com/example"
+  },
+  "soundCloudStats": [
+    {
+      "trackId": "track_blackmamba_001",
+      "permalinkUrl": "https://soundcloud.com/blackmamba/example-track",
+      "capturedAt": "2026-05-18T18:30:00.000Z",
+      "plays": 1200,
+      "likes": 92,
+      "reposts": 14,
+      "comments": 11,
+      "downloads": 0
+    }
+  ],
+  "vocalSessions": [
+    {
+      "id": "vocal_session_001",
+      "trackId": "track_blackmamba_001",
+      "recordedAt": "2026-05-18T19:00:00.000Z",
+      "takeLabel": "lead-vocal-take-01",
+      "metrics": {
+        "pitchStability": 0.82,
+        "timingAccuracy": 0.78,
+        "dynamicControl": 0.74,
+        "clarity": 0.8,
+        "emotionalDelivery": 0.9
+      },
+      "notes": "Strong emotional delivery. Tighten timing on second verse."
+    }
+  ],
+  "audienceMetrics": {
+    "engagementRatio": 0.0975,
+    "playVelocity": 1200,
+    "growthScore": 0.4585
+  },
+  "recommendations": [
+    {
+      "id": "track_blackmamba_001-promotion-promote-active-track",
+      "trackId": "track_blackmamba_001",
+      "priority": "high",
+      "category": "promotion",
+      "title": "Promote active track",
+      "rationale": "Recent audience response is strong enough to justify a focused promotion push.",
+      "createdAt": "2026-05-18T19:15:00.000Z"
+    }
+  ],
+  "versions": ["v0", "v0.1"],
+  "createdAt": "2026-05-18T18:00:00.000Z",
+  "updatedAt": "2026-05-18T19:15:00.000Z"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "suno_gen_blackmamba_001",
+  "prompt": "Dark cinematic reggaeton with emotional vocal lead and sharp percussion.",
+  "model": "suno-reference",
+  "generatedAt": "2026-05-18T18:00:00.000Z",
+  "durationSeconds": 142,
+  "styleTags": ["reggaeton", "cinematic", "latin", "dark-pop"],
+  "sourceUrl": "https://suno.com/example"
+}

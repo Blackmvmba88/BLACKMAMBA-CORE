@@ -1,0 +1,17 @@
+{
+  "name": "blackmamba-core",
+  "version": "0.1.0",
+  "description": "Layered music intelligence core for Suno creations, SoundCloud metrics, vocal analysis, and strategic recommendations.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json",
+    "test": "vitest run",
+    "typecheck": "tsc -p tsconfig.json --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "typescript": "^5.4.5",
+    "vitest": "^4.1.6"
+  }
+}

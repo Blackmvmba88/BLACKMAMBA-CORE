@@ -1,0 +1,14 @@
+{
+  "id": "vocal_session_001",
+  "trackId": "track_blackmamba_001",
+  "recordedAt": "2026-05-18T19:00:00.000Z",
+  "takeLabel": "lead-vocal-take-01",
+  "metrics": {
+    "pitchStability": 0.82,
+    "timingAccuracy": 0.78,
+    "dynamicControl": 0.74,
+    "clarity": 0.8,
+    "emotionalDelivery": 0.9
+  },
+  "notes": "Strong emotional delivery. Tighten timing on second verse."
+}
